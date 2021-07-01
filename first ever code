@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body style="background-color: rgb(143, 214, 241);"></body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jorgen's Portfolio</title>
+</head>
+<body>
+    
+    <h1 style="text-align:center; color: blue; font-size: 800%;"> <em>This is just the beginning !</em></h1>
+   
+
+  
+    
+    <p style="text-align:center; font-size: 190%;">
+    Hi everyone i am Jorgen. I am new to coding but not the engineer world.<br> I was an electrician in the Coast Guard. 
+    I am currently back in college and I am majoring in Electrical Engineering.
+    </p>
+
+
+    
+    <p style="text-align:center;"> <a href="https://www.instagram.com/jorgeneikeseth/"> <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/instagram-app-1602077427.jpg" width="200" height="200"> 
+    </a> 
+    <a href="https://www.facebook.com/profile.php?id=1212109777"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEIbO969AFYuv4KPFhH_74lDZu8aYQtKLjg&usqp=CAU" width="200" height="200">
+    </a>
+    <a href="https://www.linkedin.com/in/jorgen-eikeseth-528b5a190/"> <img src="https://www.bluestreetcapital.com/wp-content/uploads/2016/01/Linkedin-Logo.png" width="200" height="200">
+    </a>
+    </p>
+
+        <h4> Electrician doing Electrician things..</h4> 
+        <p style="text-align:left;">
+            <img src="electric.jpg"width="320" height="300"> 
+        
+        <p style="text-align:center;"> 
+        <img src="coast.jpg"width="320" height="300"
+
+         style="text-align:right;">
+        <img src="florida.jpg"width="320" height="300">
+</p>
+
+
+
+</body>
+</html>
